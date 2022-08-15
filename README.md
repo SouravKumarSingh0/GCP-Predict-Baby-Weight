@@ -106,3 +106,7 @@ We learned how to train, evaluate, and deploy a machine learning model in Cloud 
 ## Acknowledgements
 
  - [Predict Baby Weight with TensorFlow on AI Platform](https://googlecoursera.qwiklabs.com/focuses/23334910?parent=lti_session)
+ 
+## Certificate
+
+[Predict Baby Weight with TensorFlow](https://drive.google.com/drive/u/0/folders/1JEXJ0f2EhuZ7g3I77mh5JkBqJidm6Rlh)
