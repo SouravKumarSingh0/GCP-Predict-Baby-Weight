@@ -103,7 +103,7 @@ git clone https://github.com/GoogleCloudPlatform/training-data-analyst
 # Congratulations!
 We learned how to train, evaluate, and deploy a machine learning model in Cloud Datalab.
 
-## Acknowledgements
+## Reference
 
  - [Predict Baby Weight with TensorFlow on AI Platform](https://googlecoursera.qwiklabs.com/focuses/23334910?parent=lti_session)
  
